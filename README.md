@@ -1,5 +1,5 @@
 # Globos
-Repositorio para hacer pruebas con git
+Repositorio para hacer pruebas con git GISI - 2026/2027
 
 
 Este repositorio se está usando en Laboratorio de proyectos, grado de ingenieria de sonido e imagen
