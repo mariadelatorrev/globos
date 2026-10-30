@@ -19,7 +19,7 @@ class Globo
 
   void dibujate()
   {
-      rect(x,y,80,100);
+      rect(x,y,100,120);
       rectMode(CENTER);
       image(cara,x,y,70,90);
       imageMode(CENTER);
