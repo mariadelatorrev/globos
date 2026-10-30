@@ -36,7 +36,7 @@ void setup()
 {
   size(800,600);
   globos = new ArrayList<Globo>();  
-  cara = loadImage("ladygaga.jpeg");
+  cara = loadImage("pocoyo.jpg");
 }
 
 void draw()
